@@ -1,11 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ...
 Building the next generation mortgage, lending, and notarization platform: https://www.stavvy.com
 
 Also have done a hackathon or two.
 
 You've found my github, now find me on social media.
 
+- 📫 How to reach me: ...
 [![Chris Buonocore Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chrisbuonocore/)
 [![Chris Buonocore Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chrisbcore)
 [![Chris Buonocore YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCWSH8_FzTxTMV7vlkCLWqwA)
@@ -13,7 +15,7 @@ You've found my github, now find me on social media.
 
 <br/>
 
-[![cbonoz's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbonoz)](https://github.com/cbonoz/github-readme-stats)
+[![cbonoz's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbonoz)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

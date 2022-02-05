@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Building the next generation emortgage, lending, and notarization platform: https://www.stavvy.com
+My company is leading the next generation emortgage, lending, and notarization platform: https://www.stavvy.com
 
 Come work with me: https://jobs.lever.co/stavvy
 

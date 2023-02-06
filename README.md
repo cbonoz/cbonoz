@@ -5,6 +5,8 @@ My company is leading the next generation emortgage, lending, and notarization p
 
 Come work with me: https://stavvy.com/careers
 
+I work in gitlab alot also so this page won't have my full history timeline - someone should figure out how to merge these.
+
 <br/>
 
 Other networks:

@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-
-My company is leading the next-generation eMortgage, lending, and notarization platform: https://www.stavvy.com
-
-Come work with me: https://stavvy.com/careers
+Follow me for interesting projects and prototypes using open-source tools.
 
 I collaborate in GitLab a lot so this page won't have my full history timeline - someone should figure out how to merge these.
 

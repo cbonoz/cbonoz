@@ -15,7 +15,9 @@ Other networks:
 
 <br/>
 
+<!--
 [![cbonoz's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbonoz)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 
 

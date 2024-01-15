@@ -4,6 +4,9 @@ Follow me for interesting projects and prototypes using open-source tools.
 
 I collaborate in GitLab a lot so this page won't have my full history timeline - someone should figure out how to merge these.
 
+Check out my resume site here:
+https://www.cbuonocore.com
+
 <br/>
 
 Other networks:

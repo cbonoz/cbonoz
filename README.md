@@ -20,7 +20,9 @@ Engineering Lead at **HubSpot**, building API platforms and data infrastructure 
 - UC Berkeley (Engineering Physics) + UCLA (CS)
 
 **Find me:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chrisbuonocore)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chrisbcore)
-[![Website](https://img.shields.io/badge/Website-cbuonocore.com-2563eb?style=for-the-badge&logo=vercel&logoColor=white)](https://cbuonocore.com)
-[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/cbonoz)
+
+<a href="https://linkedin.com/in/chrisbuonocore"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28"></a>
+<a href="https://twitter.com/chrisbcore"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="28"></a>
+<a href="https://cbuonocore.com"><img src="https://img.shields.io/badge/Website-2563eb?style=for-the-badge&logo=vercel&logoColor=white" height="28"></a>
+<a href="https://devpost.com/cbonoz"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" height="28"></a>
+<a href="https://github.com/cbonoz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28"></a>

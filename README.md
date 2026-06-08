@@ -13,7 +13,7 @@ Engineering Lead at **HubSpot**, building API platforms and data infrastructure 
 **Past:**
 - 🏆 AT&T Global AI Prize winner (Acumos platform)
 - Platform Lead @ HubSpot
-- Director of Engineering @ Stavvy (first engineering hire, built org from 0)
+- Director of Engineering @ Stavvy (early engineering hire)
 - Tech Lead @ Drift
 - SWE @ Toast (Android Platform)
 - Grad SWE Intern @ Google

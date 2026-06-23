@@ -3,7 +3,7 @@
 Engineering Lead at **HubSpot**, building API platforms and data infrastructure at scale. Previously Director of Engineering at Stavvy, Tech Lead at Drift.
 
 **Currently:**
-- 🔧 Building API platforms processing billions of calls/day at HubSpot
+- 🎯 Platform Lead at HubSpot — API platforms processing billions of calls/day
 - 🧠 Daily user of AI coding tools (Claude Code, OpenCode, Hermes Agent via MCP)
 - 🏗️ Building [LandKoala](https://landkoala.com) — AI-powered real estate analysis platform
 - ✈️ Building [TravelMink](https://travelmink.com) — AI travel planning assistant
@@ -14,7 +14,6 @@ Engineering Lead at **HubSpot**, building API platforms and data infrastructure 
 
 **Past:**
 - 🏆 AT&T Global AI Prize winner (Acumos platform)
-- Platform Lead @ HubSpot
 - Director of Engineering @ Stavvy (early engineering hire)
 - Tech Lead @ Drift
 - SWE @ Toast (Android Platform)

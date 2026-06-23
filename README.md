@@ -6,9 +6,10 @@ Engineering Lead at **HubSpot**, building API platforms and data infrastructure 
 - 🔧 Building API platforms processing billions of calls/day at HubSpot
 - 🧠 Daily user of AI coding tools (Claude Code, OpenCode, Hermes Agent via MCP)
 - 🏗️ Building [LandKoala](https://cbuonocore.com) — AI-powered real estate analysis platform
-- ✈️ Building [TravelMink](https://cbuonocore.com) — AI travel planning assistant
+- ✈️ Building [TravelMink](https://travelmink.com) — AI travel planning assistant
 - 🏡 Building [RentalEval](https://cbuonocore.com) — rental property evaluation tool
 - 🎮 Building [VirtalityTest](https://cbuonocore.com) — Reddit game on Devvit framework
+- 🔥 Building [TrendFlamingo](https://trendflamingo.com) — AI trend analysis platform
 
 **Past:**
 - 🏆 AT&T Global AI Prize winner (Acumos platform)

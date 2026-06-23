@@ -5,10 +5,10 @@ Engineering Lead at **HubSpot**, building API platforms and data infrastructure 
 **Currently:**
 - 🔧 Building API platforms processing billions of calls/day at HubSpot
 - 🧠 Daily user of AI coding tools (Claude Code, OpenCode, Hermes Agent via MCP)
-- 🏗️ Building [LandKoala](https://cbuonocore.com) — AI-powered real estate analysis platform
+- 🏗️ Building [LandKoala](https://landkoala.vercel.app) — AI-powered real estate analysis platform
 - ✈️ Building [TravelMink](https://travelmink.com) — AI travel planning assistant
-- 🏡 Building [RentalEval](https://cbuonocore.com) — rental property evaluation tool
-- 🎮 Building [VirtalityTest](https://cbuonocore.com) — Reddit game on Devvit framework
+- 🏡 Building [RentalEval](https://propertyvalue.vercel.app) — rental property evaluation tool
+- 🎮 Building [VirtalityTest](https://www.reddit.com/r/viralitytest_dev/?playtest=viralitytest) — Reddit game on Devvit framework
 - 🔥 Building [TrendFlamingo](https://trendflamingo.com) — AI trend analysis platform
 - 📸 Building [Highlark](https://chromewebstore.google.com/detail/highlark-screenshot-annot/ahhigbflppojomkaoljjiikahdjoabgi) — open-source Chrome screenshot annotator
 

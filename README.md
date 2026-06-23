@@ -10,6 +10,7 @@ Engineering Lead at **HubSpot**, building API platforms and data infrastructure 
 - 🏡 Building [RentalEval](https://cbuonocore.com) — rental property evaluation tool
 - 🎮 Building [VirtalityTest](https://cbuonocore.com) — Reddit game on Devvit framework
 - 🔥 Building [TrendFlamingo](https://trendflamingo.com) — AI trend analysis platform
+- 📸 Building [Highlark](https://chromewebstore.google.com/detail/highlark-screenshot-annot/ahhigbflppojomkaoljjiikahdjoabgi) — open-source Chrome screenshot annotator
 
 **Past:**
 - 🏆 AT&T Global AI Prize winner (Acumos platform)
